@@ -8,11 +8,11 @@ A smart camera system that detects body poses in real-time, understands environm
 
 <!-- TODO: Replace placeholders below with actual project screenshots -->
 
-![OmPose Preview](https://via.placeholder.com/900x480/111111/f5f5f0?text=📸+OmPose+Live+Preview)
+![OmPose Preview](assets/repo/preview.png)
 
 *OmPose Live dashboard — real-time pose detection, target skeleton overlay, and AI-driven pose recommendations*
 
-![OmPose Architecture](https://via.placeholder.com/900x320/1a1a2e/e0e0e0?text=🔬+Pipeline+Architecture+Preview)
+![OmPose Architecture](assets/repo/preview_architecture.png)
 
 *Pipeline: Camera → YOLO Pose Detection → VLM Scene Analysis → Pose Guide Engine → Real-time Feedback*
 
