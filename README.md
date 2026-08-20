@@ -8,7 +8,6 @@ A smart camera system that detects body poses in real-time, understands environm
 
 <!-- TODO: Replace placeholders below with actual project screenshots -->
 
-![OmPose Preview](assets/repo/preview.png)
 
 *OmPose Live dashboard — real-time pose detection, target skeleton overlay, and AI-driven pose recommendations*
 
